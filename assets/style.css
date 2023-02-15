@@ -340,7 +340,7 @@ input:focus {
   }
 @media (max-width: 370px){
   .form-control{
-    padding: .275rem 3.5rem .275rem 0.5rem !important;
+    padding: .275rem 3rem .275rem 0.5rem !important;
   }
 }
 @media (max-width: 350px){
@@ -350,17 +350,22 @@ input:focus {
 }
 @media (max-width: 330px){
   .form-control{
-    padding: .275rem 2.5rem .275rem 0.5rem !important;
+    padding: .275rem 2rem .275rem 0.5rem !important;
   }
 }
-@media (max-width: 310px){
+@media (max-width: 320px){
   .form-control{
     padding: .275rem 1.5rem .275rem 0.5rem !important;
   }
 }
+@media (max-width: 310px){
+  .form-control{
+    padding: .275rem 1rem .275rem 0.5rem !important;
+  }
+}
 @media (max-width: 290px){
   .form-control{
-    padding: .275rem 0.8rem .275rem 0.5rem !important;
+    padding: .275rem 0.5rem .275rem 0.5rem !important;
   }
 }
   
