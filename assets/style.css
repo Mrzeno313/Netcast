@@ -353,7 +353,7 @@ input:focus {
     padding: .275rem 2.5rem .275rem 0.5rem !important;
   }
 }
-@media (max-width: 304px){
+@media (max-width: 310px){
   .form-control{
     padding: .275rem 1.5rem .275rem 0.5rem !important;
   }
